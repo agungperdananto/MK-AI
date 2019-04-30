@@ -1,6 +1,7 @@
 # MK-AI
 ## Tugas Liburan:
 Install Python Sesuai dengan versi komputer/ laptop masing-masing
-    Link:
+
+Link:
     https://python.org
 
